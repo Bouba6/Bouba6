@@ -31,7 +31,7 @@ Spécialisé dans le développement d'applications modernes et évolutives, je t
 <td width="45%">
 
 <div align="center">
-  <img src="./assets/dveloppeurweb-ezgif.com-speed.gif" width="350" alt="Coding workspace"/>
+  <img src="./assets/dveloppeurweb-ezgif.com-speed.gif" width="350" alt="Développeur web animation"/>
   
   **🚀 Objectif :** *Maîtriser l'art du développement Full Stack*
   
