@@ -65,7 +65,6 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 
 ---
 
-## 💻 **Stack Technique**
 
 ## 💻 **Stack Technique**
 
@@ -135,44 +134,12 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 
 ![MVC](https://img.shields.io/badge/MVC-FF6B6B?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-4ECDC4?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-45B7D1?style=for-the-badge)
 
 </div>
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 **Statistiques GitHub**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=E91E63&center=true&vCenter=true&width=400&lines=Mes+statistiques+GitHub;Activité+%26+contributions" alt="Stats Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bouba6&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bouba6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20"/>
-</td>
-<td width="50%">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouba6&layout=compact&langs_count=8&theme=radical&border_radius=20"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bouba6&theme=radical&border_radius=20" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bouba6&theme=redical&hide_border=true&border_radius=20" alt="Activity Graph"/>
-</div>
 
 ---
 
@@ -189,7 +156,7 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 <td width="33%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" alt="Java"/>
+  <img src="" width="100" alt="Java"/>
   
   **🏦 Gestion de Dettes**
   
@@ -205,7 +172,7 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 <td width="33%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="C#"/>
+  <img src="" width="100" alt="C#"/>
   
   **📦 Gestion de Commandes**
   
@@ -219,7 +186,7 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 <td width="34%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Full Stack"/>
+  <img src="" width="100" alt="Full Stack"/>
   
   **🎓 Gestion d'Absences Scolaires**
   
@@ -251,9 +218,8 @@ const seydina = {
     status: "Étudiant en Génie Logiciel",
     location: "Dakar, Patte-d'oie, Sénégal",
     university: "Institut Supérieur de Management (ISM)",
-    architecture: ["MVC", "Microservices", "REST API", "GraphQL"],
-    methodologies: ["Agile", "Scrum", "TDD", "CI/CD"],
-    tools: ["Git", "Docker", "Jenkins", "Postman"],
+    architecture: ["MVC","REST API"],
+    tools: ["Git", "Docker","Swagger"],
     languages: ["Français", "Anglais", "Wolof"],
     hobbies: ["Sport", "Manga", "Jeux Vidéo"],
     currentFocus: "Développement Full Stack & Nouvelles Technologies",
@@ -380,18 +346,6 @@ const seydina = {
 - 🌱 J'apprends **l'Intelligence Artificielle et le Machine Learning**
 - 👯 Je cherche à collaborer sur **des projets open source**
 - 💬 Demandez-moi des conseils sur **le développement full-stack**
-
----
-
-## 🏅 **Certifications & Formations**
-
-<div align="center">
-
-![Oracle Certified](https://img.shields.io/badge/Oracle-Certified_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Associate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</div>
 
 ---
 
