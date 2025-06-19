@@ -135,12 +135,6 @@ Spécialisé dans le développement d'applications modernes et évolutives, je t
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bouba6&theme=radical&hide_border=true)
-
-</div>
-
 ---
 
 ## 🎓 **Academic Journey**
