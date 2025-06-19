@@ -56,7 +56,7 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-seydinaaboubacarsadikhbathily@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydinaaboubacarsadikhbathily@gmail.com)
+[(https://img.shields.io/badge/Email-seydinaaboubacarsadikhbathily@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydinaaboubacarsadikhbathily@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aboubacar%20Sadikh%20Bathily-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacar-sadikhbathily-7a7007325/)
 [![Téléphone](https://img.shields.io/badge/Téléphone-221%2078%20893%2001%2007-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221788930107)
 [![GitHub](https://img.shields.io/badge/GitHub-Bouba6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bouba6)
@@ -209,25 +209,7 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 
 </div>
 
----
-
-## 🎯 **Compétences Clés**
-
-```javascript
-const seydina = {
-    status: "Étudiant en Génie Logiciel",
-    location: "Dakar, Patte-d'oie, Sénégal",
-    university: "Institut Supérieur de Management (ISM)",
-    architecture: ["MVC","REST API"],
-    tools: ["Git", "Docker","Swagger"],
-    languages: ["Français", "Anglais", "Wolof"],
-    hobbies: ["Sport", "Manga", "Jeux Vidéo"],
-    currentFocus: "Développement Full Stack & Nouvelles Technologies",
-    funFact: "Je code avec du café ☕ et de la musique 🎵"
-};
-```
-
----
+----
 
 ## 📈 **Activité de Contribution**
 
@@ -272,62 +254,6 @@ const seydina = {
 
 ---
 
-## 🌍 **Langues**
-
-<div align="center">
-  
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://flagcdn.com/w80/fr.png" width="50" alt="French Flag"/><br>
-  <strong>Français</strong><br>
-  <em>Courant</em>
-</td>
-<td align="center" width="33%">
-  <img src="https://flagcdn.com/w80/gb.png" width="50" alt="English Flag"/><br>
-  <strong>Anglais</strong><br>
-  <em>Intermédiaire</em>
-</td>
-<td align="center" width="34%">
-  <img src="https://flagcdn.com/w80/sn.png" width="50" alt="Senegal Flag"/><br>
-  <strong>Wolof</strong><br>
-  <em>Natif</em>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎯 **Loisirs & Passions**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/3o6ZsYq3ALZ9UdR2rC/giphy.gif" width="80" alt="Sport"/><br>
-  <strong>🏃‍♂️ Sport</strong><br>
-  <em>Activité physique & bien-être</em>
-</td>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="80" alt="Manga"/><br>
-  <strong>📚 Manga</strong><br>
-  <em>Lecture & culture japonaise</em>
-</td>
-<td align="center" width="34%">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="80" alt="Gaming"/><br>
-  <strong>🎮 Jeux Vidéo</strong><br>
-  <em>Gaming & stratégie</em>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🌟 **Citations Inspirantes**
 
 <div align="center">
@@ -339,16 +265,6 @@ const seydina = {
 </div>
 
 ---
-
-## 🎨 **Projets en Cours**
-
-- 🔭 Je travaille actuellement sur **une plateforme e-learning innovante**
-- 🌱 J'apprends **l'Intelligence Artificielle et le Machine Learning**
-- 👯 Je cherche à collaborer sur **des projets open source**
-- 💬 Demandez-moi des conseils sur **le développement full-stack**
-
----
-
 ## 💡 **Innovation & Créativité**
 
 <div align="center">
