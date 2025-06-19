@@ -11,7 +11,7 @@
 ## ⚡ **Qui je suis**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Développeur+passionné;Étudiant+en+Génie+Logiciel;Créateur+de+solutions+innovantes" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Développeur+passionné;Créateur+de+solutions+innovantes" alt="About Me" />
 </div>
 
 <table align="center">
