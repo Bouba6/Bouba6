@@ -10,7 +10,10 @@
 
 ## 🚀 **À propos de moi**
 
-Développeur passionné avec une expertise multi-technologique, je transforme les idées en solutions digitales innovantes. Mon parcours m'a permis de maîtriser un large éventail de technologies, de la conception à la mise en production.
+Étudiant en Génie Logiciel, Réseaux et Systèmes à l'Institut Supérieur de Management (ISM) de Dakar, je suis passionné par le développement de logiciels. Mon parcours académique et mes projets personnels m'ont permis de me familiariser avec divers langages et technologies ainsi que des frameworks modernes. Basé à Dakar, Patte-d'oie, je transforme les idées en solutions digitales innovantes.
+
+📍 **Localisation :** Dakar, Patte-d'oie, Sénégal  
+🎓 **Formation :** Licence en Génie Logiciel, Réseaux et Systèmes (2022-2025)
 
 ---
 
@@ -19,9 +22,9 @@ Développeur passionné avec une expertise multi-technologique, je transforme le
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-seydinaaboubacarsadikhbathily@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydinaaboubacarsadikhbathily@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seydina%20Bathily-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seydina-bathily)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Mon%20Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seydina-bathily.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Mon%20Profil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seydinabathily)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aboubacar%20Sadikh%20Bathily-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacar-sadikhbathily-7a7007325/)
+[![Téléphone](https://img.shields.io/badge/Téléphone-221%2078%20893%2001%2007-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221788930107)
+[![GitHub](https://img.shields.io/badge/GitHub-Bouba6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bouba6)
 
 </div>
 
@@ -81,14 +84,14 @@ Développeur passionné avec une expertise multi-technologique, je transforme le
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seydinabathily&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seydinabathily&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bouba6&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouba6&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seydinabathily&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bouba6&theme=radical)
 
 </div>
 
@@ -98,10 +101,10 @@ Développeur passionné avec une expertise multi-technologique, je transforme le
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seydinabathily&repo=ecommerce-symfony&theme=radical)](https://github.com/seydinabathily/ecommerce-symfony)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seydinabathily&repo=task-manager-react&theme=radical)](https://github.com/seydinabathily/task-manager-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seydinabathily&repo=inventory-springboot&theme=radical)](https://github.com/seydinabathily/inventory-springboot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seydinabathily&repo=mobile-flutter-app&theme=radical)](https://github.com/seydinabathily/mobile-flutter-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bouba6&repo=ecommerce-symfony&theme=radical)](https://github.com/Bouba6/ecommerce-symfony)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bouba6&repo=task-manager-react&theme=radical)](https://github.com/Bouba6/task-manager-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bouba6&repo=inventory-springboot&theme=radical)](https://github.com/Bouba6/inventory-springboot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bouba6&repo=mobile-flutter-app&theme=radical)](https://github.com/Bouba6/mobile-flutter-app)
 
 </div>
 
@@ -111,11 +114,15 @@ Développeur passionné avec une expertise multi-technologique, je transforme le
 
 ```javascript
 const seydina = {
+    status: "Étudiant en Génie Logiciel",
+    location: "Dakar, Patte-d'oie, Sénégal",
+    university: "Institut Supérieur de Management (ISM)",
     architecture: ["MVC", "Microservices", "REST API", "GraphQL"],
     methodologies: ["Agile", "Scrum", "TDD", "CI/CD"],
     tools: ["Git", "Docker", "Jenkins", "Postman"],
-    cloudServices: ["AWS", "Google Cloud", "Azure"],
-    currentFocus: "Intelligence Artificielle & Machine Learning",
+    languages: ["Français", "Anglais", "Wolof"],
+    hobbies: ["Sport", "Manga", "Jeux Vidéo"],
+    currentFocus: "Développement Full Stack & Nouvelles Technologies",
     funFact: "Je code avec du café ☕ et de la musique 🎵"
 };
 ```
@@ -126,7 +133,41 @@ const seydina = {
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seydinabathily&theme=redical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bouba6&theme=redical&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 **Formation Académique**
+
+**Licence en Génie Logiciel, Réseaux et Systèmes** *(2022-2025)*  
+📍 Institut Supérieur de Management (ISM) - Dakar, Sénégal
+
+**Baccalauréat S2**  
+📍 Institut Sainte Jeanne D'arc
+
+---
+
+## 🌍 **Langues**
+
+<div align="center">
+
+![Français](https://img.shields.io/badge/Français-Courant-FF6B6B?style=for-the-badge)
+![Anglais](https://img.shields.io/badge/Anglais-Intermédiaire-4ECDC4?style=for-the-badge)
+![Wolof](https://img.shields.io/badge/Wolof-Natif-45B7D1?style=for-the-badge)
+
+</div>
+
+---
+
+## 🎯 **Loisirs & Passions**
+
+<div align="center">
+
+![Sport](https://img.shields.io/badge/🏃‍♂️-Sport-FF9500?style=for-the-badge)
+![Manga](https://img.shields.io/badge/📚-Manga-E91E63?style=for-the-badge)
+![Jeux Vidéo](https://img.shields.io/badge/🎮-Jeux%20Vidéo-9C27B0?style=for-the-badge)
 
 </div>
 
@@ -181,7 +222,7 @@ const seydina = {
 
 ### 🌟 **"Transformer les défis en opportunités, une ligne de code à la fois"** 🌟
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fseydinabathily&label=Visiteurs&countColor=%23263759&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBouba6&label=Visiteurs&countColor=%23263759&style=plastic)
 
 ---
 
