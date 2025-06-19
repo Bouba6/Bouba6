@@ -1,39 +1,41 @@
-# 👋 Salut, je suis **Seydina Aboubcar Sadikh Bathily** 
+# 🔥 **Seydina Aboubcar Sadikh Bathily**
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Développeur+Full+Stack;Architecte+Logiciel;Passionné+de+Technologies;Créateur+d'Expériences+Digitales)
+![Coding Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Architect;Tech+Enthusiast;Building+Digital+Solutions)
 
 </div>
 
 ---
 
-## 🚀 **À propos de moi**
+## ⚡ **Qui je suis**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Passionné+par+la+technologie+%26+l'innovation;Étudiant+en+Génie+Logiciel+%40+ISM+Dakar;Motivé+à+acquérir+une+expérience+pratique;Développeur+Full+Stack+en+devenir" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Développeur+passionné;Étudiant+en+Génie+Logiciel;Créateur+de+solutions+innovantes" alt="About Me" />
 </div>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="55%">
 
-### 👨‍💻 **Profil**
-Étudiant en **Génie Logiciel, Réseaux et Systèmes** à l'Institut Supérieur de Management (ISM) de Dakar, je suis **passionné par la technologie** et **motivé à acquérir une expérience pratique** dans le développement de logiciels. 
+### 🎯 **Mon Parcours**
+Étudiant en **Génie Logiciel, Réseaux et Systèmes** à l'ISM Dakar, je suis un développeur Full Stack passionné par l'innovation technologique. 
 
-Mon parcours académique et mes projets personnels m'ont permis de me familiariser avec **divers langages et technologies** ainsi que des **frameworks modernes**. 
+Spécialisé dans le développement d'applications modernes et évolutives, je transforme les idées complexes en solutions digitales élégantes et performantes.
 
-Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales innovantes avec créativité et rigueur technique.
+**🌍 Basé à Dakar, Patte-d'oie**  
+**🎓 Formation :** Licence GL, Réseaux & Systèmes (2022-2025)  
+**💡 Mission :** Créer des expériences utilisateur exceptionnelles
 
 </td>
-<td width="50%">
+<td width="45%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer at work"/>
   
-  **🎯 Objectif :** *Devenir un développeur Full Stack expert*
+  **🚀 Objectif :** *Maîtriser l'art du développement Full Stack*
   
-  **🌟 Vision :** *Créer des solutions qui impactent positivement*
+  **⭐ Philosophy :** *Code with purpose, build with passion*
   
 </div>
 
@@ -43,52 +45,33 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 
 <div align="center">
 
-📍 **Localisation :** Dakar, Patte-d'oie, Sénégal | 🎓 **Formation :** Licence en Génie Logiciel, Réseaux et Systèmes (2022-2025)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bouba6&color=blueviolet&style=for-the-badge)
-![Years Badge](https://badges.pufler.dev/years/Bouba6?style=for-the-badge&color=blue&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Bouba6&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Commits](https://badges.pufler.dev/commits/monthly/Bouba6?style=for-the-badge&color=ff6b35)
 
 </div>
 
 ---
 
-## 📫 **Me contacter**
+## 🌐 **Connect With Me**
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydinaaboubacarsadikhbathily@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacar-sadikhbathily-7a7007325/)
-[![Téléphone](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221788930107)
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bouba6)
-
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:seydinaaboubacarsadikhbathily@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/aboubacar-sadikhbathily-7a7007325/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+221788930107)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Bouba6)
 
 </div>
 
 ---
 
-
-## 💻 **Stack Technique**
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=Technologies+maîtrisées;Stack+moderne+%26+performante" alt="Tech Stack Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=400&lines=Modern+Tech+Stack;Performance+Driven" alt="Tech Stack" />
 </div>
 
-### **🎨 Design & Interface**
-<div align="center">
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-<table>
-<tr>
-<td width="33%">
-
-### **🚀 Langages**
+### **💻 Languages & Core**
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -97,14 +80,14 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge&logo=uml&logoColor=white)
 
 </div>
 
-</td>
-<td width="33%">
+<table>
+<tr>
+<td width="50%">
 
-### **⚡ Frameworks**
+### **🔧 Frameworks & Libraries**
 <div align="center">
 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
@@ -113,14 +96,13 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
 </td>
-<td width="34%">
+<td width="50%">
 
-### **🗄️ Bases de Données**
+### **🗃️ Databases & Tools**
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -130,55 +112,74 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 
 </div>
 
-### **🛠️ Architecture**
-<div align="center">
-
-![MVC](https://img.shields.io/badge/MVC-FF6B6B?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-4ECDC4?style=for-the-badge)
-
-</div>
-
 </td>
 </tr>
 </table>
----
 
-## 📈 **Activité de Contribution**
-
+### **🎨 Design & Styling**
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bouba6&theme=redical&hide_border=true)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+</div>
+
+### **⚙️ Architecture & Patterns**
+<div align="center">
+
+![MVC](https://img.shields.io/badge/MVC-FF6B35?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-00D9FF?style=for-the-badge&logoColor=white)
+![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-## 🎓 **Formation Académique**
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=9C27B0&center=true&vCenter=true&width=400&lines=Mon+parcours+académique;Formation+%26+apprentissage" alt="Education Typing SVG" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bouba6&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouba6&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bouba6&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 **Academic Journey**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=9C27B0&center=true&vCenter=true&width=350&lines=Formation+%26+Excellence;Academic+Excellence" alt="Education" />
 </div>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="40%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Education"/>
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="250" alt="Student learning"/>
 </div>
 
 </td>
-<td width="50%">
+<td width="60%">
 
 ### 🎓 **Licence en Génie Logiciel, Réseaux et Systèmes**
-📅 **Période :** 2022-2025  
-🏫 **Établissement :** Institut Supérieur de Management (ISM)  
-📍 **Lieu :** Dakar, Sénégal  
-⭐ **Spécialisation :** Développement logiciel, Architecture système, Réseaux informatiques
+**📅 Période :** 2022-2025  
+**🏫 Institution :** Institut Supérieur de Management (ISM)  
+**📍 Localisation :** Dakar, Sénégal  
+**🎯 Focus :** Développement logiciel avancé, Architecture système, Infrastructures réseau
 
-### 📚 **Baccalauréat S2**
-🏫 **Établissement :** Institut Sainte Jeanne D'arc  
-🎯 **Filière :** Sciences & Technologies
+### 📚 **Baccalauréat Sciences & Technologies**
+**🏫 Lycée :** Institut Sainte Jeanne D'arc  
+**🔬 Spécialité :** Sciences S2
 
 </td>
 </tr>
@@ -186,24 +187,48 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 
 ---
 
-## 🌟 **Citations Inspirantes**
+## 💭 **Developer Philosophy**
 
 <div align="center">
 
-> *"Le code est comme l'humour. Quand tu dois l'expliquer, c'est mauvais."* – Cory House
+<table>
+<tr>
+<td align="center" width="33%">
 
-> *"D'abord, résolvez le problème. Ensuite, écrivez le code."* – John Johnson
+### 🧠 **Think**
+*"Code is poetry written in logic"*
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ **Build**
+*"Create solutions that matter"*
+
+</td>
+<td align="center" width="34%">
+
+### 🚀 **Innovate**
+*"Push the boundaries of possible"*
+
+</td>
+</tr>
+</table>
+
+> *"The best error message is the one that never shows up."* — Thomas Fuchs
+> 
+> *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
 
 </div>
 
 ---
-## 💡 **Innovation & Créativité**
+
+## 🏆 **Skills Mastery**
 
 <div align="center">
 
-![Innovation](https://img.shields.io/badge/Innovation-100%25-FF6B6B?style=for-the-badge)
-![Créativité](https://img.shields.io/badge/Créativité-∞-4ECDC4?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Expert-45B7D1?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Expert-00D9FF?style=for-the-badge&logo=lightbulb&logoColor=white)
+![Code Quality](https://img.shields.io/badge/Code_Quality-High-4ECDC4?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Innovation](https://img.shields.io/badge/Innovation-Continuous-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)
 
 </div>
 
@@ -211,22 +236,20 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 
 <div align="center">
 
-<div align="center">
+### 🌟 **"Crafting tomorrow's digital experiences, one commit at a time"** 🌟
 
-### 🌟 **"Transformer les défis en opportunités, une ligne de code à la fois"** 🌟
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Merci de visiter mon profil !</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBouba6&label=Visiteurs&countColor=%23263759&style=plastic)
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> <em><b>Thanks for exploring my profile!</b></em> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50">
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=N'hésitez+pas+à+explorer+mes+repositories;Contactez-moi+pour+toute+collaboration;Ensemble%2C+créons+l'avenir+numérique+!" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Let's+collaborate+and+build+amazing+things+together;Open+for+opportunities+and+exciting+projects;Contact+me+for+your+next+digital+solution!" alt="Footer" />
 
 <div align="center">
   <a href="mailto:seydinaaboubacarsadikhbathily@gmail.com">
-    <img src="https://img.shields.io/badge/💌-Envoyez%20moi%20un%20message-FF6B6B?style=for-the-badge&logoColor=white" alt="Contact"/>
+    <img src="https://img.shields.io/badge/💬-Let's%20Talk-00D9FF?style=for-the-badge&logoColor=white" alt="Contact"/>
   </a>
 </div>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBouba6&label=Profile+Visitors&countColor=%2300D9FF&style=for-the-badge)
 
 </div>
