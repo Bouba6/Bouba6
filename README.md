@@ -31,7 +31,7 @@ Spécialisé dans le développement d'applications modernes et évolutives, je t
 <td width="45%">
 
 <div align="center">
-  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/developpeur-web-4675876-3895620.mp4" width="350" alt="Coding workspace"/>
+  <img src="./assets/dveloppeurweb-ezgif.com-speed.gif" width="350" alt="Coding workspace"/>
   
   **🚀 Objectif :** *Maîtriser l'art du développement Full Stack*
   
