@@ -141,16 +141,6 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 </tr>
 </table>
 ---
-<div align="center">
-
-### 🌟 **Repositories GitHub**
-
-[![Gestion Dettes](https://github-readme-stats.vercel.app/api/pin/?username=Bouba6&repo=gestion-dettes-java&theme=radical)](https://github.com/Bouba6/gestion-dettes-java)
-[![Gestion Commandes](https://github-readme-stats.vercel.app/api/pin/?username=Bouba6&repo=gestion-commandes-csharp&theme=radical)](https://github.com/Bouba6/gestion-commandes-csharp)
-
-</div>
-
-----
 
 ## 📈 **Activité de Contribution**
 
