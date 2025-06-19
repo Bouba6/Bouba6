@@ -56,10 +56,11 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydinaaboubacarsadikhbathily@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacar-sadikhbathily-7a7007325/)
-[![Téléphone](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221788930107)
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bouba6)
+[![Email](https://img.shields.io/badge/.-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydinaaboubacarsadikhbathily@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacar-sadikhbathily-7a7007325/)
+[![Téléphone](https://img.shields.io/badge/.-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221788930107)
+[![GitHub](https://img.shields.io/badge/.-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bouba6)
+
 
 </div>
 
