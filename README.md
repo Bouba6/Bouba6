@@ -31,7 +31,7 @@ Spécialisé dans le développement d'applications modernes et évolutives, je t
 <td width="45%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" alt="Coding workspace"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="Coding workspace"/>
   
   **🚀 Objectif :** *Maîtriser l'art du développement Full Stack*
   
