@@ -140,66 +140,7 @@ Basé à **Dakar, Patte-d'oie**, je transforme les idées en solutions digitales
 </td>
 </tr>
 </table>
-
 ---
-
-## 🏆 **Mes Projets Phares**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Mes+réalisations+techniques;Projets+académiques+%26+personnels;Innovation+%26+créativité" alt="Projects Typing SVG" />
-</div>
-
-### 💼 **Projets Développés**
-
-<table>
-<tr>
-<td width="33%">
-
-<div align="center">
-  <img src="" width="100" alt="Java"/>
-  
-  **🏦 Gestion de Dettes**
-  
-  `Java • PostgreSQL • JavaFX`
-  
-  Application MVC pour gérer clients et dettes avec backend optimisé
-  
-  *Également développé en PHP/Symfony*
-  
-</div>
-
-</td>
-<td width="33%">
-
-<div align="center">
-  <img src="" width="100" alt="C#"/>
-  
-  **📦 Gestion de Commandes**
-  
-  `C# • PostgreSQL • JavaScript • Tailwind`
-  
-  Interface dynamique avec backend performant et base optimisée
-  
-</div>
-
-</td>
-<td width="34%">
-
-<div align="center">
-  <img src="" width="100" alt="Full Stack"/>
-  
-  **🎓 Gestion d'Absences Scolaires**
-  
-  `Java • Spring Boot • MongoDB • Flutter • Angular`
-  
-  App complète avec scheduler automatique et interfaces mobile & web
-  
-</div>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 ### 🌟 **Repositories GitHub**
