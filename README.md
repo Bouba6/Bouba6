@@ -19,7 +19,7 @@
 <td width="55%">
 
 ### 🎯 **Mon Parcours**
-Étudiant en **Génie Logiciel, Réseaux et Systèmes** à l'ISM Dakar, je suis un développeur Full Stack passionné par l'innovation technologique. 
+je suis un développeur Full Stack passionné par l'innovation technologique. 
 
 Spécialisé dans le développement d'applications modernes et évolutives, je transforme les idées complexes en solutions digitales élégantes et performantes.
 
